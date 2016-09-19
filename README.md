@@ -7,9 +7,11 @@ ALL MEMBERS ARE ENOURAGED TO CORRECT/ADD TO THIS README AND COMMENT ON WHAT YOU 
  ~/Desktop$ git clone git@github.com:ub-cse442/practiceRep.git
 
 
+
 2. CREATING A BRANCH ON YOUR LOCAL MACHINE:
 
 ~/Desktop/practiceRep$ git branch bens_branch
+
 
 
 3. POINTING TO THE BRANCH ON YOUR LOCAL MACHINE:
@@ -17,10 +19,12 @@ ALL MEMBERS ARE ENOURAGED TO CORRECT/ADD TO THIS README AND COMMENT ON WHAT YOU 
 ~/Desktop$ git checkout bens_branch 
 
 
+
 4. TELL GIT YOU WANT TO ADD A FILE TO YOUR LOCAL BRANCH 
 
 ~/Desktop$ git add bensfile
 (I made a simple file called "bensfile." Make sure you are pointing to the correct branch when you do this command)
+
 
 
 5. SUBMIT THE FILE TO YOUR LOCAL BRANCH
