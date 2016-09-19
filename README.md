@@ -1,6 +1,6 @@
 # practiceRep
 This is a test repository for group members to freely practice pulling, pushing, push/pull requests, and anything else they wish to do.
-ALL MEMBERS ARE ENOURAGED TO CORRECT/ADD TO THIS README AND COMMENT ON WHAT YOU ARE DOING.
+****ALL MEMBERS ARE ENOURAGED TO CORRECT/ADD TO THIS README AND COMMENT ON WHAT YOU ARE DOING.****
 
 - ***CLONING THE REPOSITORY TO YOUR LOCAL MACHINE:***
 
@@ -19,7 +19,7 @@ ALL MEMBERS ARE ENOURAGED TO CORRECT/ADD TO THIS README AND COMMENT ON WHAT YOU 
 ~/Desktop$ git add bensfile
 (I made a simple file called "bensfile." Make sure you are pointing to the correct branch when you do this command)
 
-- S***UBMIT THE FILE TO YOUR LOCAL BRANCH***
+- ***SUBMIT THE FILE TO YOUR LOCAL BRANCH***
 
  ~/Desktop$ git commit -m "adding bensfile to bens_branch"
 (if you have added many files with the git add <file> command, it will submit all of them at once unless you specify otherwise.)
