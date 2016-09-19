@@ -30,8 +30,8 @@ ALL MEMBERS ARE ENOURAGED TO CORRECT/ADD TO THIS README AND COMMENT ON WHAT YOU 
  
 - HOW TO FETCH CHANGES FROM THE REMOTE REPOSITORY TO YOUR LOCAL MACHINE
  
- ~/Desktop$ git push origin bens_branch
-  (if you just do 'git push origin' it downloads all new changes to all your local branches)
+ ~/Desktop$ git fetch origin/bens_branch
+  (if you want to fetch changes done to all branches, just do 'git fetch origin' without specifying the branch)
 
  
 
