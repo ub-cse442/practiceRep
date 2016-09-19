@@ -14,7 +14,7 @@ This is a test repository for group members to freely practice pulling, pushing,
  
 ~/Desktop$ git checkout bens_branch 
 
-- ***TELL GIT YOU WANT TO ADD A FILE TO YOUR LOCAL BRANCH ***
+- ***TELL GIT YOU WANT TO ADD A FILE TO YOUR LOCAL BRANCH***
 
 ~/Desktop$ git add bensfile
 (I made a simple file called "bensfile." Make sure you are pointing to the correct branch when you do this command)
