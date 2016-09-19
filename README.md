@@ -28,10 +28,17 @@ ALL MEMBERS ARE ENOURAGED TO CORRECT/ADD TO THIS README AND COMMENT ON WHAT YOU 
 
  ~/Desktop$ git push origin bens_branch
  
-- HOW TO FETCH CHANGES FROM THE REMOTE REPOSITORY TO YOUR LOCAL MACHINE
+- HOW TO REQUEST REMOTE THAT YOU WANT ITS CHANGES ON YOUR LOCAL MACHINE
  
- ~/Desktop$ git fetch origin/bens_branch
-  (if you want to fetch changes done to all branches, just do 'git fetch origin' without specifying the branch)
+ ~/Desktop$ git fetch origin bens_branch
+  
+(if you want to fetch changes done to all branches, just do 'git fetch origin' without specifying the branch)
+***FETCH WILL NOT PUT THE CHANGES IN YOUR LOCAL REPOSITORY JUST YET. IT HOLDS THEM SO YOU CAN DOUBLE CHECK YOUR LOCAL***
+
+- HOW TO PUT FETCH CHANGES ONTO YOUR LOCAL MACHINE'S REPOSITORY:
+ ~/Desktop$ git merge origin/master
+('git merge origin' will change your entire remote repository to reflect the remote's, not just one branch)
+***NOTE: THIS COMMAND IS NOT MERGING YOUR LOCAL CHANGES TO THE REMOTE NOR DELETING ANY NEW FILES ON YOUR LOCAL***
 
  
 
