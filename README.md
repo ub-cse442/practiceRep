@@ -27,4 +27,10 @@ ALL MEMBERS ARE ENOURAGED TO CORRECT/ADD TO THIS README AND COMMENT ON WHAT YOU 
 - SUBMIT YOUR BRANCH WITH YOUR FILE IN IT TO REMOTE (Github)
 
  ~/Desktop$ git push origin bens_branch
+ 
+ - HOW TO FETCH CHANGES FROM THE REMOTE REPOSITORY TO YOUR LOCAL MACHINE
+ ~/Desktop$ git push origin bens_branch
+  (if you just do 'git push origin' it downloads all new changes to all your local branches)
+
+ 
 
