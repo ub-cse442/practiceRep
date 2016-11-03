@@ -1,5 +1,6 @@
 from myMRjob import myMRjob
-
+##
+##
 class inverted_index(myMRjob):
 
     def mapper(self,k,v):
