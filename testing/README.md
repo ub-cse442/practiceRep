@@ -23,7 +23,7 @@ Data tab shows 5 different tabs for each Election year since 2000. If you click 
 
 - ***Twitter Analysis***
 </br>
-
+Twitter analysis tab has the data visualizations and analysis of data collected from Twitter. The twitter data collected consisted of mentions of the presedential candidates in a good and neutral way from each state. The data was plotted in a graph for each candidate to come to conclusions on general opinion of the nation.
 
 - ***Speech***
 </br>
