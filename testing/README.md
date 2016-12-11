@@ -32,4 +32,4 @@ Shows visual graphs of analysis of the whole past Presdients' speech. We counted
 
 - ***Live Stream***
 </br>
-The Live Sream tab shows a live Twitter feed of positive sentiment tweets regarding Donald Trump and the historical counts of those positive tweets. This live stream is constant proof that an algorithm can constantly filter polarizing tweets.
+The Live Sream tab shows a live Twitter feed of positive sentiment tweets regarding Donald Trump and the historical counts of those positive tweets. This live stream is consistent proof that an algorithm can constantly filter polarizing tweets.
