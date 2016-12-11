@@ -29,3 +29,7 @@ Twitter analysis tab has the data visualizations and analysis of data collected 
 </br>
 Shows visual graphs of analysis of the whole past Presdients' speech. We counted the number of words for specific important words they spoke, and how many words there are in each sentence on average.
 
+
+- ***Live Stream***
+</br>
+The Live Sream tab shows a live Twitter feed of positive sentiment tweets regarding Donald Trump and the historical counts of those positive tweets. This live stream is constant proof that an algorithm can constantly filter polarizing tweets.
