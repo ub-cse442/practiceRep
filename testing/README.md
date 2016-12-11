@@ -2,9 +2,10 @@
 We extracted and visualized relevant data of 2016 and past US President Election. 
 </br>
 </br>
-All of our works are present in this website: 
+All of our works are present in these website: 
 </br>
 ### http://www.acsu.buffalo.edu/~skim43/cse_442/
+### http://96.243.34.179/index.html  (twitter live stream added)
 </br>
 To explain about the details of the website, it has four different tabs: Home, Data, Twitter Analysis, and Speech.
 
